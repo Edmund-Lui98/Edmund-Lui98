@@ -1,6 +1,9 @@
 ## Hi there, im Edmund Lui 👋
 
 [![Edmund-Lui98's github stats](https://github-readme-stats.vercel.app/api?username=Edmund-Lui98&show_icons=true&theme=default)](https://github.com/Edmund-Lui98/)
+
+![My Wall](https://idemoed.vercel.app/api/wall?username=Edmund-Lui98)
+
 <!--
 **Edmund-Lui98/Edmund-Lui98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
